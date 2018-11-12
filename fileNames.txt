@@ -1,0 +1,7 @@
+form1_result.php- this page comes after you login. It displays the question for the given user and gives option to insert question- session start
+form2_result.php- this page comes after you fill form to create account. It displays the question for the given user and gives option to insert question- session start
+form2.html- this page has a form to create new account.
+form3_result.php- does the work to insert question into questions table- session stop
+form3.php- form to insert new question
+index.php- login page
+$password="TDXM0YdPW";
